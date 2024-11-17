@@ -35,7 +35,7 @@ I'm a passionate and highly skilled **Full-Stack Developer** with extensive expe
 [![](https://visitcount.itsvg.in/api?id=Emoumo-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/umarumar) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/umarumar) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
